@@ -1,0 +1,10 @@
+name: API Indexing with Auth0 + Stripe Starter
+description: 'This project pattern demonstrates our API Indexing with Auth0 and Stripe.'
+icon: dollar-sign
+color: '#95bf46'
+categories:
+  - authentication
+  - subscriptions
+  - ecommerce
+  - services
+  - api indexing
